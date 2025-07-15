@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Zoning_key": "16",
+        "Zoning": "Logístico - Madrid - A4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-3.66408611111111, 40.106],
+            [-3.70588333333333, 40.25285],
+            [-3.69886, 40.27992],
+            [-3.67888055555556, 40.2808527777778],
+            [-3.66408611111111, 40.106]
+          ]
+        ]
+      }
+    }
+  ]
+}
