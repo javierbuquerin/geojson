@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Zoning_key": "6",
+        "Zoning": "Oficinas Barcelona - NBA 22@"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.18952, 41.40374],
+          [2.19123333333333, 41.4039555555556],
+          [2.20736944444444, 41.4057583333333],
+          [2.196162, 41.401185],
+          [2.18952, 41.40374]
+        ]]
+      }
+    }
+  ]
+}
