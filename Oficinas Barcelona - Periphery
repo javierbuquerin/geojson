@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Zoning_key": "8",
+        "Zoning": "Oficinas Barcelona - Periphery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.0773,
+              41.492169
+            ],
+            [
+              2.0773,
+              41.487025
+            ],
+            [
+              2.057172,
+              41.487025
+            ],
+            [
+              2.057172,
+              41.492169
+            ],
+            [
+              2.0773,
+              41.492169
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
